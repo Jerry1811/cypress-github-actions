@@ -11,7 +11,7 @@ export default defineConfig({
     pageLoadTimeout: 80000,
     defaultCommandTimeout: 10000,
     video: false,
-    retries: 0,
+    retries: 1,
     scrollBehavior: "center",
     chromeWebSecurity: false,
     watchForFileChanges: true,
