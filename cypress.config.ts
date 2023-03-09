@@ -5,7 +5,7 @@ export default defineConfig({
     setupNodeEvents(on, config) {
       // implement node event listeners here
     },
-    baseUrl: "https://demoqa.com/alerts",
+    baseUrl: "https://qas-eastus-hrvyst-app.azurewebsites.net",
     viewportHeight: 1080,
     viewportWidth: 1920,
     pageLoadTimeout: 80000,
